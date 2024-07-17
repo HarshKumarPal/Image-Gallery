@@ -1,3 +1,5 @@
+#IMAGE GALLERY
+
 Tech Stack: (HTML, CSS, JavaScript)
 
 ● Made an Image Gallery where any user can view multiple images in the gallery, add new
