@@ -1,4 +1,4 @@
-#IMAGE GALLERY
+IMAGE GALLERY
 
 Tech Stack: (HTML, CSS, JavaScript)
 
